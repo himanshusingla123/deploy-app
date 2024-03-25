@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deploy-app/static/css/main.6b7bf36c.css",
+    "main.js": "/deploy-app/static/js/main.907ada7d.js",
+    "static/js/239.55a8f472.chunk.js": "/deploy-app/static/js/239.55a8f472.chunk.js",
+    "static/js/213.a57e7b3e.chunk.js": "/deploy-app/static/js/213.a57e7b3e.chunk.js",
+    "static/js/732.60de9175.chunk.js": "/deploy-app/static/js/732.60de9175.chunk.js",
+    "static/js/453.1622dac6.chunk.js": "/deploy-app/static/js/453.1622dac6.chunk.js",
+    "index.html": "/deploy-app/index.html",
+    "main.6b7bf36c.css.map": "/deploy-app/static/css/main.6b7bf36c.css.map",
+    "main.907ada7d.js.map": "/deploy-app/static/js/main.907ada7d.js.map",
+    "239.55a8f472.chunk.js.map": "/deploy-app/static/js/239.55a8f472.chunk.js.map",
+    "213.a57e7b3e.chunk.js.map": "/deploy-app/static/js/213.a57e7b3e.chunk.js.map",
+    "732.60de9175.chunk.js.map": "/deploy-app/static/js/732.60de9175.chunk.js.map",
+    "453.1622dac6.chunk.js.map": "/deploy-app/static/js/453.1622dac6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b7bf36c.css",
+    "static/js/main.907ada7d.js"
+  ]
+}
